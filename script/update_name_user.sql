@@ -1,0 +1,1 @@
+UPDATE users SET fullname = 'New Name' WHERE id = 1;
